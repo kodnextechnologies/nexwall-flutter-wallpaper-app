@@ -123,6 +123,7 @@ A `--dart-define` value is compiled into the app, and anyone can extract it from
 - [Android Kotlin wallpaper app (Jetpack Compose)](https://github.com/kodnextechnologies/nexwall-android-kotlin-wallpaper-app)
 - [React Native / Expo wallpaper app](https://github.com/kodnextechnologies/nexwall-react-native-expo-wallpaper-app)
 - [Python client and CLI with a daily wallpaper changer](https://github.com/kodnextechnologies/nexwall-python)
+- [Web starter: Next.js / React, Laravel and plain JavaScript (API key kept server-side)](https://github.com/kodnextechnologies/nexwall-web-starter)
 
 ## License
 
